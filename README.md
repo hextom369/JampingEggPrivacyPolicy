@@ -1,0 +1,2 @@
+# JampingEggPrivacyPolicy
+プライバシーポリシーの説明
